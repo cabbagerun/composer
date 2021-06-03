@@ -1,6 +1,6 @@
 {
-    "name": "your-vendor-name/package-name",
-    "description": "A short description of what your package does",
+    "name": "cabbagerun/composer",
+    "description": "composer packagist test",
     "require": {
         "php": ">=7.4",
         "another-vendor/package": "1.*"
